@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">defi 02.1</string>
+    <string name="send">send</string>
+    <string name="text_one"> Text One </string>
+    <string name="text_two"> Text Two </string>
+    <string name="text_three"> Text Three </string>
+    <string name="message_received">received_message</string>
+
+
+</resources>
